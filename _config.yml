@@ -1,0 +1,28 @@
+name: Maggie Ruggles
+favicon: null
+layout_spectrum: 0.5688699679449201
+typography_spectrum: 0.6509387497790158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3285245636943728
+  lightness: 0.42585132154636085
+  saturation: 0.026786411181092262
+  rhythmicContrast: 0.9456883177626878
+purpose: []
